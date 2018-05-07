@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="title">TicTacToe(دوز)</string>
+    <string name="subtitle">JCafe.ir</string>
+    <string name="disk">O</string>
+    <string name="remove">X</string>
+    <string name="userX">X</string>
+    <string name="userO">O</string>
+    <string name="playerlbl">برنده : </string>
+    <string name="no1win">بدون برنده .</string>
+    <string name="winmsg">شما برنده شدید</string>
+    <string name="lossmsg">شما برنده نشدید</string>
+    <string name="btnExit">خروج</string>
+    <string name="btnReset">بازی جدید</string>
+    <string name="sharemessage">اشتراک نتیجه</string>
+    <string name="menushare">اشتراک گذاری</string>
+</resources>
